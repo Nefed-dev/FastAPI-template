@@ -1,0 +1,2 @@
+class UserDependencyMarker:
+    pass
